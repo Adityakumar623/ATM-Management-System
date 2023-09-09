@@ -15,7 +15,7 @@ To run the project
 8. Project will start running
 
 ### Contact
-If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/aditya-kumar-choubey-577314202/).
+If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/aditya-kumar-choubey-577314202/). Or 
 [Gmail](adityakr1753@gmail.com).
 
 
