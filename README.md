@@ -16,6 +16,7 @@ To run the project
 
 ### Contact
 If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/aditya-kumar-choubey-577314202/).
+[Gmail.com](adityakr1753@gmail.com).
 
-# licence
-This project is free to use and does not contains any license.
+
+
